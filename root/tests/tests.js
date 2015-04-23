@@ -1,4 +1,4 @@
-module("Basic Tests", {
+module('Basic Tests', {
 	setup: function () { 
 
 	},
@@ -8,6 +8,6 @@ module("Basic Tests", {
 });
 
 
-test("test", function () {
+test('test', function () {
 	ok(true);
 });

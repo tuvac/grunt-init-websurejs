@@ -5,7 +5,7 @@
 	
 	var init = function () {
 		if (someBuildExclude) {
-			console.log("test method");
+			console.log('test method');
 		}
 	};
 	
